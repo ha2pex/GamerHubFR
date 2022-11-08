@@ -26,6 +26,7 @@ header, .content, footer {
 h1 {
 	background-image: var(--main-title-text-color);
 	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
 	font-size: 32px;
 	font-weight: 500;
@@ -46,4 +47,18 @@ h4 {
 	font-weight: 300;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+
+
+#main-icon {
+	height: 120px;
+	width: 120px;
+	border-radius: 40px;
+}
+
+.guild-icon {
+	height: 60px;
+	width: 60px;
+	border-radius: 20px;
 }
