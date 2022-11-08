@@ -80,6 +80,9 @@ a.button > span {
 
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
-		padding: 16px;
+		padding: 24px;
+	}
+	header {
+		text-align: center;
 	}
 }
