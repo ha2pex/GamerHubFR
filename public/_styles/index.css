@@ -63,20 +63,25 @@ h4 {
 	border-radius: 20px;
 }
 
+a {
+	color: var(--primary);
+	text-decoration: none;
+}
 a.button {
 	background-color: var(--primary);
 	padding: 12px 36px;
 	margin: 12px 0;
-	text-decoration: none;
 	border-radius: 8px;
 }
 a.button > span {
 	font-size: 16px;
 	color: white;
 	font-weight: 700;
-	text-decoration: none;
 }
 
+.section {
+	padding: 24px 0;
+}
 
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
@@ -84,5 +89,8 @@ a.button > span {
 	}
 	header {
 		text-align: center;
+	}
+	.section {
+		padding: 12px;
 	}
 }
