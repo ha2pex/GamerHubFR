@@ -88,6 +88,22 @@ a.button > span {
 	margin: 24px 0;
 	box-shadow: 0 8px 16px 8px #cbd5e1;
 	border-radius: 16px;
+	text-align: center;
+}
+.box-filled {
+	background-color: var(--primary);
+	color: white;
+	font-weight: bold;
+}
+.box-gradient {
+	background-image: var(--secondary);
+	color: white;
+	font-weight: bold;
+}
+.box-booster {
+	background-color: #ff6eaf;
+	color: white;
+	font-weight: bold;
 }
 
 @media only screen and (max-width: 640px) {
@@ -102,7 +118,7 @@ a.button > span {
 	}
 	.box {
 		border-radius: 24px;
-		padding: 16px;
+		padding: 24px;
 		box-shadow: 0 4px 8px 4px #cbd5e1;
 	}
 }
