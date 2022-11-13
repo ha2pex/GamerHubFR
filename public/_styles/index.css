@@ -64,9 +64,9 @@ h4 {
 }
 
 hr {
-	border: solid 0.5px #ffffff;
-	border-radius: 0.5px;
-	max-width: 64px;
+	border: solid 2px #ffffff;
+	border-radius: 2px;
+	max-width: 128px;
 	margin: 16px 0;
 }
 
