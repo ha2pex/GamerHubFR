@@ -67,6 +67,7 @@ hr {
 	border: solid 0.5px #ffffff;
 	border-radius: 0.5px;
 	max-width: 64px;
+	margin: 16px 0;
 }
 
 a {
