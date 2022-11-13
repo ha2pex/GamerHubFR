@@ -83,6 +83,13 @@ a.button > span {
 	padding: 24px 0;
 }
 
+.box {
+	padding: 64px;
+	margin: 12px 0;
+	box-shadow: 0 8px 16px 8px;
+	border-radius: 16px;
+}
+
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
 		padding: 24px;
@@ -92,5 +99,8 @@ a.button > span {
 	}
 	.section {
 		padding: 12px;
+	}
+	.box {
+		border-radius: 32px;
 	}
 }
