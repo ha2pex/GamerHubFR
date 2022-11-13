@@ -113,6 +113,14 @@ a.button > span {
 	font-weight: bold;
 }
 
+.price {
+	width: 128px;
+	padding: 8px 0;
+	margin: 16px 0;
+	background-color: white;
+	color: var(--primary);
+}
+
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
 		padding: 24px;
