@@ -63,6 +63,12 @@ h4 {
 	border-radius: 20px;
 }
 
+hr {
+	border: solid 0.5px #ffffff;
+	border-radius: 0.5px;
+	max-width: 64px;
+}
+
 a {
 	color: var(--primary);
 	text-decoration: none;
