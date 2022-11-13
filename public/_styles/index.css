@@ -71,13 +71,13 @@ hr {
 }
 
 img {
-	border-radius: 4px;
+	border-radius: 16px;
 }
 
 img.badge {
-	border-radius: 16px;
-	width: 64px;
-	height: 64px;
+	border-radius: 32px;
+	width: 128px;
+	height: 128px;
 	margin-bottom: 16px;
 }
 
@@ -125,12 +125,11 @@ a.button > span {
 }
 
 .price {
-	width: 256px;
-	padding: 8px 16px;
+	padding: 16px 32px;
 	margin-top: 32px;
 	background-color: white;
 	color: var(--primary);
-	border-radius: 32px;
+	border-radius: 48px;
 }
 
 @media only screen and (max-width: 640px) {
@@ -147,5 +146,18 @@ a.button > span {
 		border-radius: 24px;
 		padding: 24px;
 		box-shadow: 0 4px 8px 4px #cbd5e1;
+	}
+	img {
+		border-radius: 4px;
+	}
+	img.badge {
+		width: 64px;
+		height: 64px;
+		border-radius: 16px;
+	}
+
+	.price {
+		padding: 8px 16px;
+		border-radius: 32px;
 	}
 }
