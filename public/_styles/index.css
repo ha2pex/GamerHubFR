@@ -114,9 +114,9 @@ a.button > span {
 }
 
 .price {
-	width: 128px;
-	padding: 8px 0;
-	margin: 16px 0;
+	width: 256px;
+	padding: 8px 16px;
+	margin-top: 32px;
 	background-color: white;
 	color: var(--primary);
 }
