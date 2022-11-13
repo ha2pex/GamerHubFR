@@ -119,6 +119,7 @@ a.button > span {
 	margin-top: 32px;
 	background-color: white;
 	color: var(--primary);
+	border-radius: 32px;
 }
 
 @media only screen and (max-width: 640px) {
