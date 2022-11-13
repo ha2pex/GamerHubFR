@@ -108,6 +108,11 @@ a.button > span {
 	border-radius: 16px;
 	text-align: center;
 }
+.box-highlighted {
+	background-color: #10b981;
+	color: white;
+	font-weight: bold;
+}
 .box-filled {
 	background-color: var(--primary);
 	color: white;
