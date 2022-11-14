@@ -62,6 +62,10 @@ h4 {
 	width: 60px;
 	border-radius: 20px;
 }
+.flexbox {
+	display: flex;
+	flex-direction: row;
+}
 
 hr {
 	border: solid 2px #ffffff;
@@ -164,5 +168,8 @@ a.button > span {
 	.price {
 		padding: 8px 16px;
 		border-radius: 32px;
+	}
+	.flexbox {
+		display: inherit;
 	}
 }
