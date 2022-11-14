@@ -90,17 +90,26 @@ a {
 	text-decoration: none;
 }
 a.button {
-	background-color: var(--primary);
+	background-color: f0536a6a;
 	padding: 12px 36px;
 	margin: 12px 0;
 	border-radius: 8px;
 }
 a.button > span {
 	font-size: 16px;
-	color: white;
+	color: var(--primary);
 	font-weight: 700;
 }
 
+a.btn-filled {
+	background-color: var(--primary);
+} 
+a.btn-gradient {
+	background-image: var(--secondary);
+} 
+a.btn-gradient > span, a.btn-filled > span {
+	color: white;
+} 
 .section {
 	padding: 24px 0;
 }
