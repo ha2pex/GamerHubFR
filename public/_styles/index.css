@@ -154,6 +154,10 @@ a.button > span {
 	margin-left: 12px;
 }
 
+#homeoffertitle {
+	color: white;
+}
+
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
 		padding: 24px;
@@ -190,5 +194,9 @@ a.button > span {
 		width: inherit;
 		margin-left: 0;
 		margin-right: 0;
+	}
+
+	#homeoffertitle {
+		display: none;
 	}
 }
