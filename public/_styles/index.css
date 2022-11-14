@@ -188,5 +188,6 @@ a.button > span {
 
 	#gamerplusoffer, #gamerstaroffer, #boosteroffer {
 		width: inherit;
+		margin: 0;
 	}
 }
