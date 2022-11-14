@@ -141,6 +141,19 @@ a.button > span {
 	border-radius: 48px;
 }
 
+#gamerplusoffer {
+	width: 33.33%;
+	margin-right: 12px;
+}
+#gamerstaroffer {
+	width: 33.33%;
+	margin: 0 12px;
+}
+#boosteroffer {
+	width: 33.33%;
+	margin-left: 12px;
+}
+
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
 		padding: 24px;
