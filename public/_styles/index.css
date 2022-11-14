@@ -185,4 +185,8 @@ a.button > span {
 	.flexbox {
 		display: inherit;
 	}
+
+	#gamerplusoffer, #gamerstaroffer, #boosteroffer {
+		width: inherit;
+	}
 }
