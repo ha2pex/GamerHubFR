@@ -181,11 +181,8 @@ a.btn-gradient > span, a.btn-filled > span {
 	color: white;
 } 
 
-.lexical {
-	padding: 0 16px;
-}
 .tag {
-	padding: 2px;
+	padding: 0 2px;
 	border-radius: 2px;
 	margin-right: 8px;
 }
