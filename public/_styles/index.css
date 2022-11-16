@@ -168,6 +168,24 @@ a.btn-gradient > span, a.btn-filled > span {
 	color: white;
 }
 
+.new-event {
+	background-color: #0369a1;
+} 
+.new-announcement {
+	background-color: #6366f1;
+} 
+.new-recruitement {
+	background-color: #84cc16;
+} 
+
+.lexical {
+	padding: 0 16px;
+}
+.tag {
+	padding: 4px;
+	border-radius: 4px;
+}
+
 @media only screen and (max-width: 640px) {
 	header, .content, footer {
 		padding: 24px;
