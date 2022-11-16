@@ -90,7 +90,7 @@ a {
 	text-decoration: none;
 }
 a.button {
-	background-color: f0536a6a;
+	background-color: #f0536a6a;
 	padding: 12px 36px;
 	margin: 12px 0;
 	border-radius: 8px;
@@ -170,20 +170,23 @@ a.btn-gradient > span, a.btn-filled > span {
 
 .new-event {
 	background-color: #0369a1;
+	color: white;
 } 
 .new-announcement {
 	background-color: #6366f1;
+	color: white;
 } 
 .new-recruitement {
 	background-color: #84cc16;
+	color: white;
 } 
 
 .lexical {
 	padding: 0 16px;
 }
 .tag {
-	padding: 4px;
-	border-radius: 4px;
+	padding: 2px;
+	border-radius: 2px;
 }
 
 @media only screen and (max-width: 640px) {
