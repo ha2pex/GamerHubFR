@@ -95,7 +95,7 @@ a.button {
 	padding: 12px 36px;
 	margin: 12px 0;
 	border-radius: 8px;
-	box-shadow: 0 1px 2px 1px #0f172a10;
+	box-shadow: 0 1px 2px 1px #0f172a30;
 }
 a.button > span {
 	font-size: 16px;
@@ -112,6 +112,10 @@ a.btn-gradient {
 a.btn-gradient > span, a.btn-filled > span {
 	color: white;
 } 
+a.btn-white {
+	background-xolor: white;
+} 
+
 .section {
 	padding: 24px 0;
 }
