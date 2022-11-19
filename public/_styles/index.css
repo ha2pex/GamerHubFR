@@ -146,7 +146,6 @@ a.btn-white {
 .box-gradient {
 	background-image: var(--secondary);
 	color: white;
-	font-weight: bold;
 }
 .box-booster {
 	background-color: #ff6eaf;
