@@ -138,12 +138,10 @@ a.btn-white {
 .box-highlighted {
 	background-color: #10b981;
 	color: white;
-	font-weight: bold;
 }
 .box-filled {
 	background-color: var(--primary);
 	color: white;
-	font-weight: bold;
 }
 .box-gradient {
 	background-image: var(--secondary);
@@ -153,9 +151,11 @@ a.btn-white {
 .box-booster {
 	background-color: #ff6eaf;
 	color: white;
-	font-weight: bold;
 }
-
+.box-discord {
+	background-color: #5865f2;
+	color: white;
+} 
 .price {
 	padding: 16px 32px;
 	margin-top: 32px;
