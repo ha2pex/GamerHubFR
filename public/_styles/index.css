@@ -85,7 +85,11 @@ img.badge {
 	height: 128px;
 	margin-bottom: 16px;
 }
-
+img.profile {
+	height: 96px;
+	width: 96px;
+	border-radius: 48px;
+}
 a {
 	color: var(--primary);
 	text-decoration: none;
