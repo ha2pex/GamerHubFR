@@ -70,6 +70,13 @@ h4 {
 	width: 33.33%;
 }
 
+.flexbox:first-child {
+	margin-right: 12px;
+}
+.flexbox:last-child {
+	margin-left: 12px;
+}
+
 hr {
 	border: solid 2px #ffffff;
 	border-radius: 2px;
