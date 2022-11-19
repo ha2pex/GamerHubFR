@@ -66,6 +66,9 @@ h4 {
 	display: flex;
 	flex-direction: row;
 }
+.flexbox > * {
+	width: 33.33%;
+}
 
 hr {
 	border: solid 2px #ffffff;
@@ -226,6 +229,9 @@ a.btn-white {
 	}
 	.flexbox {
 		display: inherit;
+	}
+	.flexbox > * {
+		width: 100%;
 	}
 
 	#gamerplusoffer, #gamerstaroffer, #boosteroffer {
