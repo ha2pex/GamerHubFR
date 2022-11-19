@@ -68,13 +68,7 @@ h4 {
 }
 .flexbox > * {
 	width: 33.33%;
-}
-
-.flexbox:nth-child(1) {
-	margin-right: 12px;
-}
-.flexbox:nth-child(3) {
-	margin-left: 12px;
+	margin: 0 12px;
 }
 
 hr {
