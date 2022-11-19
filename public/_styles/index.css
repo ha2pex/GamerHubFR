@@ -231,7 +231,7 @@ a.btn-white {
 		display: inherit;
 	}
 	.flexbox > * {
-		width: 100%;
+		width: auto;
 	}
 
 	#gamerplusoffer, #gamerstaroffer, #boosteroffer {
