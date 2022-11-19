@@ -68,7 +68,7 @@ h4 {
 }
 .flexbox > * {
 	width: 33.33%;
-	margin: 0 12px;
+	margin: 12px;
 }
 
 hr {
