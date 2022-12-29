@@ -6,7 +6,7 @@
 
 :root {
 	--primary: #f0536a;
-	--secondary: linear-gradient(45deg, #f0536a, #a280ec, #12c2e9);
+	--secondary: linear-gradient(30deg, #f0536a, #a280ec);
 	--body-text-color: black;
 	--main-title-text-color: var(--secondary);
 	--title-text-color: var(--primary);
